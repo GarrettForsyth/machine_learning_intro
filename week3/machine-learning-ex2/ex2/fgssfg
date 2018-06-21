@@ -1,0 +1,77 @@
+theta =
+
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+
+ans =
+
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+   0
+
+Cost at initial theta (zeros): 0.693147
+Expected cost (approx): 0.693
+Gradient at initial theta (zeros) - first five values only:
+ 0.008475 
+ 0.008475 
+ 0.008475 
+ 0.008475 
+ 0.008475 
+Expected gradients (approx) - first five values only:
+ 0.0085
+ 0.0188
+ 0.0001
+ 0.0503
+ 0.0115
+
+Program paused. Press enter to continue.
